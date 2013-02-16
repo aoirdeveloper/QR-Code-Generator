@@ -12,3 +12,6 @@ How to operate:
 2. Change the background (If wanted)
 3. Host the unziped package on your hosting
 4. Enjoy!
+
+Developed by AOIR Developer
+http://www.aoir.co.in
